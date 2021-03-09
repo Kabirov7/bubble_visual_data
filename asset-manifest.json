@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/bubble_clusters/static/css/main.bb97bc24.chunk.css",
-    "main.js": "/bubble_clusters/static/js/main.2f001a12.chunk.js",
-    "main.js.map": "/bubble_clusters/static/js/main.2f001a12.chunk.js.map",
-    "runtime-main.js": "/bubble_clusters/static/js/runtime-main.6b6b39fa.js",
-    "runtime-main.js.map": "/bubble_clusters/static/js/runtime-main.6b6b39fa.js.map",
-    "static/js/2.5bb72ee6.chunk.js": "/bubble_clusters/static/js/2.5bb72ee6.chunk.js",
-    "static/js/2.5bb72ee6.chunk.js.map": "/bubble_clusters/static/js/2.5bb72ee6.chunk.js.map",
-    "static/js/3.daea31f0.chunk.js": "/bubble_clusters/static/js/3.daea31f0.chunk.js",
-    "static/js/3.daea31f0.chunk.js.map": "/bubble_clusters/static/js/3.daea31f0.chunk.js.map",
-    "index.html": "/bubble_clusters/index.html",
-    "static/css/main.bb97bc24.chunk.css.map": "/bubble_clusters/static/css/main.bb97bc24.chunk.css.map",
-    "static/js/2.5bb72ee6.chunk.js.LICENSE.txt": "/bubble_clusters/static/js/2.5bb72ee6.chunk.js.LICENSE.txt"
+    "main.css": "/bubble_visual_data/static/css/main.bb97bc24.chunk.css",
+    "main.js": "/bubble_visual_data/static/js/main.2f001a12.chunk.js",
+    "main.js.map": "/bubble_visual_data/static/js/main.2f001a12.chunk.js.map",
+    "runtime-main.js": "/bubble_visual_data/static/js/runtime-main.708c72a4.js",
+    "runtime-main.js.map": "/bubble_visual_data/static/js/runtime-main.708c72a4.js.map",
+    "static/js/2.5bb72ee6.chunk.js": "/bubble_visual_data/static/js/2.5bb72ee6.chunk.js",
+    "static/js/2.5bb72ee6.chunk.js.map": "/bubble_visual_data/static/js/2.5bb72ee6.chunk.js.map",
+    "static/js/3.daea31f0.chunk.js": "/bubble_visual_data/static/js/3.daea31f0.chunk.js",
+    "static/js/3.daea31f0.chunk.js.map": "/bubble_visual_data/static/js/3.daea31f0.chunk.js.map",
+    "index.html": "/bubble_visual_data/index.html",
+    "static/css/main.bb97bc24.chunk.css.map": "/bubble_visual_data/static/css/main.bb97bc24.chunk.css.map",
+    "static/js/2.5bb72ee6.chunk.js.LICENSE.txt": "/bubble_visual_data/static/js/2.5bb72ee6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b6b39fa.js",
+    "static/js/runtime-main.708c72a4.js",
     "static/js/2.5bb72ee6.chunk.js",
     "static/css/main.bb97bc24.chunk.css",
     "static/js/main.2f001a12.chunk.js"
